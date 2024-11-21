@@ -91,29 +91,55 @@
     "description": "Porsche is a renowned German manufacturer of high-performance sports cars. The 911 is an automotive legend, praised for its design, engineering, and dynamic driving experience, making it a favorite among driving enthusiasts worldwide."
   },
   {
-    "brand": "Lamborghini",
-    "model": "Huracán",
+    "brand": "Kia",
+    "model": "Stinger",
     "engine": {
       "type": "Petrol",
-      "power": "631 hp"
+      "power": "365 hp"
     },
-    "price": "$208,000",
-    "image": "https://fox59.com/wp-content/uploads/sites/21/2022/11/lamborghini-huracn-sterrato_100864334_h.jpg?w=1280&h=720&crop=1",
-    "company_origin": "Italy",
-    "owner": "Audi (Volkswagen Group)",
-    "description": "Lamborghini is a luxury car manufacturer known for its bold and aggressive designs. The Huracán is a striking supercar, known for its raw power, remarkable speed, and exceptional handling, making it a true automotive masterpiece."
+    "price": "$33,090",
+    "image": "https://www.carsguide.com.au/car-dimensions/1920x1080/kia-stinger-2023-2764.jpg",
+    "company_origin": "South Korea",
+    "owner": "Hyundai Motor Group",
+    "description": "Kia, part of the Hyundai Motor Group, is a South Korean automaker known for delivering stylish, affordable, and reliable vehicles. The Stinger is a high-performance sports sedan, combining luxury, power, and exceptional handling."
   },
   {
-    "brand": "Ferrari",
-    "model": "488 GTB",
+    "brand": "Land Rover",
+    "model": "Range Rover",
     "engine": {
       "type": "Petrol",
-      "power": "661 hp"
+      "power": "395 hp"
     },
-    "price": "$262,800",
-    "image": "https://english.mathrubhumi.com/image/contentid/policy:1.9996860:1729229837/f80.jpg?$p=95770c7&f=16x10&w=852&q=0.8",
-    "company_origin": "Italy",
-    "owner": "Ferrari N.V.",
-    "description": "Ferrari is an Italian luxury sports car manufacturer, synonymous with performance, elegance, and exclusivity. The 488 GTB represents Ferrari's engineering excellence, offering blistering speed, advanced technology, and a truly thrilling driving experience."
+    "price": "$104,500",
+    "image": "https://www.motortrend.com/uploads/sites/5/2021/10/2022-Land-Rover-Range-Rover-Exterior.jpg?crop=0.752xw:0.566xh;0.103xw,0.245xh&resize=1200:*",
+    "company_origin": "United Kingdom",
+    "owner": "Tata Motors",
+    "description": "Range Rover, a luxury SUV brand from the UK, is known for its off-road capability combined with refined luxury. The Range Rover offers a prestigious design, high-end features, and an impressive performance, making it the ultimate luxury SUV."
+  },
+  {
+    "brand": "Jaguar",
+    "model": "F-Type",
+    "engine": {
+      "type": "Petrol",
+      "power": "575 hp"
+    },
+    "price": "$67,000",
+    "image": "https://www.motortrend.com/uploads/sites/5/2019/11/2019-Jaguar-F-Type-4.jpg",
+    "company_origin": "United Kingdom",
+    "owner": "Tata Motors",
+    "description": "Jaguar is a British luxury car manufacturer known for its performance and stylish designs. The F-Type is a stunning sports car that delivers exceptional performance, sophisticated engineering, and an unforgettable driving experience."
+  },
+  {
+    "brand": "Tata Motors",
+    "model": "Tata Harrier",
+    "engine": {
+      "type": "Diesel",
+      "power": "170 hp"
+    },
+    "price": "$21,000",
+    "image": "https://www.carwale.com/images/car-images/2024/tata-harrier/front-left-side-47.jpg",
+    "company_origin": "India",
+    "owner": "Tata Group",
+    "description": "Tata Motors, part of the Tata Group, is a leading Indian automotive company. The Harrier is a premium SUV offering a blend of performance, luxury, and advanced technology, designed to cater to both urban and off-road adventures."
   }
 ]
