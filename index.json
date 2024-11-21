@@ -1,0 +1,119 @@
+[
+  {
+    "brand": "Tesla",
+    "model": "Model S",
+    "engine": {
+      "type": "Electric",
+      "power": "670 hp"
+    },
+    "price": "$94,990",
+    "image": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/11/Tesla-Roadster-103.jpg?crop=0.792xw:0.733xh;0.136xw,0.225xh&resize=1200:*",
+    "company_origin": "United States",
+    "owner": "Elon Musk",
+    "description": "Tesla, Inc. is an American electric vehicle and clean energy company. Known for its innovation in electric vehicles and autonomous driving, Tesla has made a significant impact on the automotive industry with its stylish and high-performance electric cars."
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "engine": {
+      "type": "Petrol",
+      "power": "473 hp"
+    },
+    "price": "$71,800",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/X5-2023/10452/1688992642182/front-left-side-47.jpg",
+    "company_origin": "Germany",
+    "owner": "BMW Group",
+    "description": "BMW (Bayerische Motoren Werke AG) is a German multinational company that produces luxury vehicles and motorcycles. Renowned for its engineering excellence, the M3 is one of BMW's most iconic performance models, known for its agility and power on the road."
+  },
+  {
+    "brand": "Audi",
+    "model": "RS7",
+    "engine": {
+      "type": "Petrol",
+      "power": "591 hp"
+    },
+    "price": "$114,000",
+    "image": "https://mediaservice.audi.com/media/fast/H4sIAAAAAAAA_y2VzeocRRDANwlJxIMSg4gv8EcIWNPzPYdFEjwIEggoXnIINTPdPb3d87FdPT27c_Lma_gAeSMvvoAnL14Ea8DTj_qu6aqe_vjX6enqT0_ev3_z479ff6n1H9Xj0-m2nE6nR6x__P7Nx7-_-ufZJz__-b_62W-np2H17fyIXd49_tSMqCVcFqk_Pz1n1enJ6fT819Pp6e-Hw-mzl6t3C3ocv_WSlnkiE-WLb2QhGpWopOo7JXqhqqaWIk9z0TV5Kouy67KuSJr8Cy74Ap2DSXed8vMUsryXZMO83BzkY0huKaRJmoPIX2Uxi1CUr_wFEFeZIGDrxeIBZS_CAZ8sCaAe800yKMnZZYiiZ6Vp81UxnI4sLQtbAUmWXAZJSzwkVxCnplGPh-QLvzLuic0B177ZOgZhTYBbLG0CLQ6pREa4pD0jij1A286lYqVrW26wnTdBKbQBk6ig67eKC3UDpkMD3dx1dQXdgiawcmnNKhidiWxberOxcospN9-jFK1j-IwE9NJkaoVecSG2GSXuJci2TbVghGsoQHZyMg3Iox6CNEMxHnDVyC7LUN3YhUy1sUS0qooR9J6Cwj7h5pVcS-5TqU3weSpN0TGGLXI95ajmA1Fzrw6bN2ksQFG7DhxOS3F4Rqo0YyfFR6ClanzCmBpdg7ZDcpeMmFwY4xwaA3rx2ZqD9liHkhFixwG0aKFBb1jeUxhQ60HAINsyHvBYHKDiwjCYTAfGcrowKJsIBosNShhoq80Ow9pbHvhwb1NuyUy0FgxPuSvBorcsWaSrFWDbtiRixGQswLo9uVdgx-XqawblPA47j7o9EItdgfWj2DmLJ4EpWMKCm7dkMp0zVotsWwdrM7B7LLcSHHYFn6Brh0z34Lrlek3B9f10SRiz5D6dRJd4xnTdK3AGa12Asyh5d51tqwwZXVUecHI4lJQuAtzsqwMexW1jRDwCSDaRGJR2nGUdq2GBEamUGYw9KV72UWFDNYx2rflTxhnNTTBCv5YwTajugjGpXcCCo-YKi0YVMrjqUV0TuK6IDI99lxvG2lx68N0sfQq-txUfq5emLm4MF3kAXnrBy-ApJDIFwja_5YwBk4SxptYDtb6OI1DnFV816sLVCaB-yGUFJPHK602KUk5Nak95MUnbZsmATDsJxZCZ45xmyHmTyeziugNZvNxYmrByNWOo7xwwT8WNA5a1urPND6Vh0JDbjuEzvlwUgubhUJzVkWzzNR8PbXuzINDuspGz7GsyIQQbc1NBWHTDGxIW11YNBK-KXjC2rGMXWqbAUpRXHk7YnIgDYxXEtvsi5J2xpzz32FoRUoiz1Vw2znQVCDHEZo-woWsCMrzk_8RGWMkDlGsFe-vTDWHnyYYediPzvYXdxqzNYCdK_A576Mu1YvjI93Zfh2ZMvpNTNPwLHuUUzm_nt68__DCvJB8204fhLJo0eRik0UM4izxPHtAtA54V8no9dDjyjTz_FPit-PD6Q_ohSdhh4rcjGH4Szt_j3R2RDxSk9GbSOGknz6J4oG5eOHSz8k7yusqpk-f05ZPXv7z7D9meeni6BgAA.webp?wid=854",
+    "company_origin": "Germany",
+    "owner": "Volkswagen Group",
+    "description": "Audi, a premium automobile brand from Germany, is known for its advanced technology, luxury design, and performance. The RS7 is an exhilarating high-performance sports sedan, combining elegance with power for an exceptional driving experience."
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "AMG GT",
+    "engine": {
+      "type": "Petrol",
+      "power": "577 hp"
+    },
+    "price": "$118,600",
+    "image": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/IN/254647/804/iris.webp?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZUnRZbMw3SGtlaWtsd2JQcUfpO6XGEuTRJ0l3CJOB2NznbApRnyI5ux5IQC31SrkzNwmbm7jA6ohKV5Kh%25vqCuqyLRgc6Yax%255SrH1yI6n8w0A2oiZB5lM4FAsuTg9LQ96PDaPpSeWHXUtsd8ZDcUfiXWXGE4JYJ0lgClOB2PzFbAp7oMIkb1ECQmIKM1kzNUTNm7jsGOhKVvKQ%25vqLUdyL0fsjko9wdYfHxKj1aRcYxqN8NmDmA9KLBZ59U2G1oQsvt&BKGND=9&IMGT=W27&cp=U7lLKRUtPa6KAFr8s_ubHw&uni=m&POV=BE320&uni=m",
+    "company_origin": "Germany",
+    "owner": "Daimler AG",
+    "description": "Mercedes-Benz is a world-renowned German luxury automobile manufacturer. The AMG GT is a performance sports car designed to deliver an intense driving experience with power, style, and precision, making it one of Mercedes' most coveted models."
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "engine": {
+      "type": "Petrol",
+      "power": "450 hp"
+    },
+    "price": "$27,205",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/11/360513538/HC/PN/NM/201405135/used-2020-ford-f-150-for-sale-1000x1000.jpg",
+    "company_origin": "United States",
+    "owner": "Ford Motor Company",
+    "description": "Ford, a staple of American automotive innovation, is known for producing reliable, powerful, and affordable vehicles. The Mustang is a symbol of American muscle cars, combining performance with a bold, classic design."
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Corvette",
+    "engine": {
+      "type": "Petrol",
+      "power": "495 hp"
+    },
+    "price": "$59,995",
+    "image": "https://vehicle-images.dealerinspire.com/7ad7-210005785/3GCPABEK0RG267276/106092266b1892547e4b617ce2cf1069.jpg",
+    "company_origin": "United States",
+    "owner": "General Motors",
+    "description": "Chevrolet, part of General Motors, is an American brand recognized for its diverse range of vehicles. The Corvette is Chevrolet's iconic sports car, offering cutting-edge performance and a thrilling driving experience."
+  },
+  {
+    "brand": "Porsche",
+    "model": "911",
+    "engine": {
+      "type": "Petrol",
+      "power": "443 hp"
+    },
+    "price": "$101,200",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/911/11757/1717680690776/front-left-side-47.jpg?impolicy=resize&imwidth=480",
+    "company_origin": "Germany",
+    "owner": "Volkswagen Group",
+    "description": "Porsche is a renowned German manufacturer of high-performance sports cars. The 911 is an automotive legend, praised for its design, engineering, and dynamic driving experience, making it a favorite among driving enthusiasts worldwide."
+  },
+  {
+    "brand": "Lamborghini",
+    "model": "Huracán",
+    "engine": {
+      "type": "Petrol",
+      "power": "631 hp"
+    },
+    "price": "$208,000",
+    "image": "https://fox59.com/wp-content/uploads/sites/21/2022/11/lamborghini-huracn-sterrato_100864334_h.jpg?w=1280&h=720&crop=1",
+    "company_origin": "Italy",
+    "owner": "Audi (Volkswagen Group)",
+    "description": "Lamborghini is a luxury car manufacturer known for its bold and aggressive designs. The Huracán is a striking supercar, known for its raw power, remarkable speed, and exceptional handling, making it a true automotive masterpiece."
+  },
+  {
+    "brand": "Ferrari",
+    "model": "488 GTB",
+    "engine": {
+      "type": "Petrol",
+      "power": "661 hp"
+    },
+    "price": "$262,800",
+    "image": "https://english.mathrubhumi.com/image/contentid/policy:1.9996860:1729229837/f80.jpg?$p=95770c7&f=16x10&w=852&q=0.8",
+    "company_origin": "Italy",
+    "owner": "Ferrari N.V.",
+    "description": "Ferrari is an Italian luxury sports car manufacturer, synonymous with performance, elegance, and exclusivity. The 488 GTB represents Ferrari's engineering excellence, offering blistering speed, advanced technology, and a truly thrilling driving experience."
+  }
+]
