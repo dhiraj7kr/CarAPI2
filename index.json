@@ -111,7 +111,7 @@
       "power": "395 hp"
     },
     "price": "$104,500",
-    "image": "https://www.motortrend.com/uploads/sites/5/2021/10/2022-Land-Rover-Range-Rover-Exterior.jpg?crop=0.752xw:0.566xh;0.103xw,0.245xh&resize=1200:*",
+    "image": "https://cdn.motor1.com/images/mgl/koo3Qx/s1/land-rover-defender-75th-limited-edition.jpg",
     "company_origin": "United Kingdom",
     "owner": "Tata Motors",
     "description": "Range Rover, a luxury SUV brand from the UK, is known for its off-road capability combined with refined luxury. The Range Rover offers a prestigious design, high-end features, and an impressive performance, making it the ultimate luxury SUV."
@@ -124,10 +124,23 @@
       "power": "575 hp"
     },
     "price": "$67,000",
-    "image": "https://www.motortrend.com/uploads/sites/5/2019/11/2019-Jaguar-F-Type-4.jpg",
+    "image": "https://mediacloud.carbuyer.co.uk/image/private/s--lepQYGOj--/v1611673897/autoexpress/2021/01/Jaguar%20XF%20facelift%202021-22.jpg",
     "company_origin": "United Kingdom",
     "owner": "Tata Motors",
     "description": "Jaguar is a British luxury car manufacturer known for its performance and stylish designs. The F-Type is a stunning sports car that delivers exceptional performance, sophisticated engineering, and an unforgettable driving experience."
+  },
+  {
+  "brand": "Mahindra",
+  "model": "XUV700",
+  "engine": {
+    "type": "Petrol",
+    "power": "200 hp"
+  },
+  "price": "$22,000",
+  "image": "https://media.zigcdn.com/media/content/2020/Sep/zw-tharc-1-1-2_720x540.jpg",
+  "company_origin": "India",
+  "owner": "Mahindra Group",
+  "description": "Mahindra is a prominent Indian multinational corporation with a strong presence in the automotive industry. The XUV700 is a feature-packed SUV, known for its powerful engine, cutting-edge technology, and robust design, making it a top choice for Indian families."
   },
   {
     "brand": "Tata Motors",
@@ -137,7 +150,7 @@
       "power": "170 hp"
     },
     "price": "$21,000",
-    "image": "https://www.carwale.com/images/car-images/2024/tata-harrier/front-left-side-47.jpg",
+    "image": "https://wallpapercave.com/wp/wp4045953.png",
     "company_origin": "India",
     "owner": "Tata Group",
     "description": "Tata Motors, part of the Tata Group, is a leading Indian automotive company. The Harrier is a premium SUV offering a blend of performance, luxury, and advanced technology, designed to cater to both urban and off-road adventures."
